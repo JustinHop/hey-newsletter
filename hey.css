@@ -1,0 +1,20 @@
+.heybutton {
+    border: 2px solid black;
+    padding: 3px;
+}
+
+.hey-wrap {
+    max-width:950px !important;
+}
+
+.hey_mainblock {
+    width:710px;float:left;
+}
+
+.heypostcats {
+    height: auto;
+}
+
+.heyoutline {
+    border: 1px solid #DFDFDF;
+}
